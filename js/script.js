@@ -51,7 +51,7 @@ sr.reveal('.home-content p, .about-content', { origin: 'right' });
 
 // Adicionando o efeito de digitação com o plugin Typed.js
 const typed = new Typed('.multiple-text', {
-    strings: ['Desenvolvedor Frontend!', 'Publicitário!', 'Gestor de trafégo pago!'],
+    strings: ['Desenvolvedor FrontEnd!', 'Publicitário!', 'Social Mídia!'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,

@@ -118,6 +118,14 @@
         text-align: center;
         margin-top: 2rem;
     }
+
+    .portfolio-box .portfolio-layer h4 {
+        font-size: 1.8rem;
+    }
+
+    .portfolio-box .portfolio-layer p {
+        font-size: 1.4rem;
+    }
 }
 
 @media (max-width: 375px) {
@@ -128,10 +136,10 @@
     }
 
     .portfolio-box .portfolio-layer h4 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .portfolio-box .portfolio-layer p {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
 }
